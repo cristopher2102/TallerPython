@@ -1,4 +1,5 @@
-if __name__ == '_main_':
+if __name__ == '__main__':
+
     num = int (input("Dame un numero"))
     potencia = int (input("Dame la potencia"))
     i=1

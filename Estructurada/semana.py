@@ -1,4 +1,5 @@
-if __name__ == '_main_':
+if __name__ == '__main__':
+
     dia = int(input("Dame un dia de la semana "))
     nomdia=""
     match dia:
@@ -8,5 +9,5 @@ if __name__ == '_main_':
         case 4: nomdia = "Jueves"
         case 5: nomdia = "Viernes"
         case 6: nomdia = "Sabado"
-        case 7: nomdia = "Domingo"
+        case 7: nomdia = "Domi"
     print(f"El dia de la semana es : {nomdia}")
