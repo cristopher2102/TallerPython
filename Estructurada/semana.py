@@ -11,3 +11,5 @@ if __name__ == '__main__':
         case 6: nomdia = "Sabado"
         case 7: nomdia = "Domi"
     print(f"El dia de la semana es : {nomdia}")
+
+    
